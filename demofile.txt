@@ -1,4 +1,5 @@
-this is the test file for git
-
-
- new line `
+516K	.
+464K	./.git
+256K	./.git/objects
+68K	./.git/hooks
+52K	./.git/logs
