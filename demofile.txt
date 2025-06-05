@@ -3,3 +3,5 @@
 256K	./.git/objects
 68K	./.git/hooks
 52K	./.git/logs
+
+hello dosto
